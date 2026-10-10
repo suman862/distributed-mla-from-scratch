@@ -1,0 +1,7 @@
+prefix=/home/suman/research/distributed-mla-from-scratch/cudaenv
+includedir=${prefix}/include
+
+Name: PresentProto
+Description: Present extension headers
+Version: 1.4
+Cflags: -I${includedir}

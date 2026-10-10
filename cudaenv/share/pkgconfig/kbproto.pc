@@ -1,0 +1,8 @@
+prefix=/home/suman/research/distributed-mla-from-scratch/cudaenv
+includedir=${prefix}/include
+
+Name: KBProto
+Description: KB extension headers
+Version: 1.0.7
+Cflags: -I${includedir}
+Requires: xproto >= 7.0.33
