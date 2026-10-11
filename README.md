@@ -105,3 +105,9 @@ Two immediate question for you;
 2. why int only . why not float?
 
 So above is a source code. We will use gcc compiler to compile to convert it into machine readable code execute it. 
+
+Day 2: Sunday,October 11, 2026
+
+Hi, Today plan of my work is 
+1. to recap what i had learn yestarday and 
+2. to continue pointers. 
