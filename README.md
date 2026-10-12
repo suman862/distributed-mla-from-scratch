@@ -106,8 +106,16 @@ Two immediate question for you;
 
 So above is a source code. We will use gcc compiler to compile to convert it into machine readable code execute it. 
 
-Day 2: Sunday,October 11, 2026
+## Day 2: Sunday,October 11, 2026
 
-Hi, Today plan of my work is 
+Hi ! Today, plan of my work is 
 1. to recap what i had learn yestarday and 
 2. to continue pointers. 
+
+Yestarday I had learn about pointers. Pointers are bascially a variabale but pointers store the address of another variable . 
+So, Plan for today is to learn pointer to pointer to integer and pointer to pointer to pointer to interger. Lets hope it will go well. 
+
+## Day 3: Sunday,October 11, 2026
+
+Hi !
+Today i revisited and practice the concept i had learning yestarday and learned more about NULL pointers . Alos, I learned about malloc function in memmory management. At end of the day i learned about size and tourched the basic of C++
