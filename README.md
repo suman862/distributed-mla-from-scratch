@@ -115,7 +115,22 @@ Hi ! Today, plan of my work is
 Yestarday I had learn about pointers. Pointers are bascially a variabale but pointers store the address of another variable . 
 So, Plan for today is to learn pointer to pointer to integer and pointer to pointer to pointer to interger. Lets hope it will go well. 
 
-## Day 3: Sunday,October 11, 2026
+## Day 3: October 11, 2026 — Revisiting C Fundamentals and Exploring Memory Management
 
-Hi !
-Today i revisited and practice the concept i had learning yestarday and learned more about NULL pointers . Alos, I learned about malloc function in memmory management. At end of the day i learned about size and tourched the basic of C++
+Today, I revisited and practiced the concepts I had learned previously to strengthen my understanding of C programming. I also explored new concepts related to pointers, memory management, and the fundamentals of C++.
+
+###  What I Learned
+
+- **Revision and Practice:** Reviewed and practiced previously learned C programming concepts.
+- **NULL Pointers:** Learned more about NULL pointers, their purpose, and how they represent pointers that do not point to a valid object.
+- **Dynamic Memory Allocation:** Explored the `malloc()` function and its role in allocating memory dynamically in C.
+- **`sizeof` Operator:** Practiced using `sizeof` to determine the memory size of data types, variables, arrays, and structures.
+- **Introduction to C++:** Took my first steps into the fundamentals of C++ programming.
+
+###  Hands-on Practice
+
+I wrote, compiled, and executed C programs using GCC on Linux. I also practiced organizing my source files and explored Git for version control.
+
+###  Key Takeaway
+
+Today was about strengthening my fundamentals and understanding how C handles pointers and memory. These concepts are important for my long-term goal of understanding low-level programming, GPU computing, and the systems behind AI models.
